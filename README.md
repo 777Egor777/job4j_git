@@ -1,4 +1,4 @@
 ## Usage of GIT
 
-+ [Branches]() - Что такое ветка. Master. Создание, переключение.
++ [Branches](BRANCHES.md) - Что такое ветка. Master. Создание, переключение.
 
