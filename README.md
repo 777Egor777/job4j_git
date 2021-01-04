@@ -5,3 +5,4 @@
 + [Change last commit](CHANGE_LAST_COMMIT.md) - Внеcение изменений в последний коммит
 + [Reset](RESET.md) - Объединение коммитов при помощи reset
 + [Rebase](REBASE.md) - Объединение коммитов при помощи rebase
++ [Stash](STASH.md) - Временное хранилище git stash 
